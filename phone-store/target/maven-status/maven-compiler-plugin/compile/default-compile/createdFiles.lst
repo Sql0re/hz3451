@@ -5,6 +5,7 @@ com\phonestore\exception\UserNotFoundException.class
 com\phonestore\exception\PhoneNotFoundException.class
 com\phonestore\validator\UserValidator.class
 com\phonestore\controller\UserController.class
+com\phonestore\config\DataInitializer.class
 com\phonestore\config\RedisConfig.class
 com\phonestore\service\UserServiceImpl.class
 com\phonestore\entity\User.class
